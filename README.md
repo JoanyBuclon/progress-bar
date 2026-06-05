@@ -1,4 +1,4 @@
-# Project Bar - A Visual ProgressBar
+# Progress Bar - A Visual ProgressBar for projects
 
 A small and visual project management tool with local save
 
